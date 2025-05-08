@@ -10,3 +10,7 @@ script works by matching the artist names, and then grabbing the top 10 most pop
 3. Set env variables SPOTIPY_CLIENT_ID, SPOTIPY_CLIENT_SECRET, to the stuff u found in number 2
 4. Set SPOTIPY_REDIRECT_URI to local host
 5. Execute main.py 
+
+
+## ISSUES
+1. Sometimes the artist match goes wrong, i.e. when I inputted "Rezz" for some reason it matched to somebody named "The Artist Ren", so you may have to manually check to see if things are right.
