@@ -21,4 +21,4 @@ playlist = sp.create_playlist(playlist_name)
 playlist_id = playlist['id']
 
 sp.add_tracks_to_playlist(playlist_id, song_uris)
-sp.update_description_to_playlist(playlist_id, description="Made by https://github.com/wangcf99")
+sp.update_description_to_playlist(playlist_id, description="Made by https://github.com/wangcf99/SpotifyFestivalPlaylistGenerator/tree/main")

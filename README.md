@@ -1,6 +1,8 @@
 # SpotifyFestivalPlaylistGenerator
 ## WHAT
-Input a list of artists u interested in seeing and then it generates a playlist 
+You ever plan to go to a festival and then create your schedule and then realize there are so many artists, and that making a playlist is too much work?
+This script is supposed to handle that, just input a list of artists you are interested in seeing at a festival, and then it generates a playlist. This 
+script works by matching the artist names, and then grabbing the top 10 most popular songs from that artist, then adding it to the playlist. 
 
 ## HOW TO USE:
 1. Create a Spotify Developer Account 
